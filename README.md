@@ -1,0 +1,1 @@
+It is website where you look for flats in case you are looking for one. In this project I worked on several pages UI and tested them for any issues.
